@@ -1,6 +1,6 @@
 ﻿namespace ConsultarCepsWinForms
 {
-    partial class Form1
+    partial class FrmConsultarCEPs
     {
         /// <summary>
         ///  Required designer variable.
